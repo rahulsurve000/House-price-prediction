@@ -1,0 +1,11 @@
+1. DecisionTreeRegressor-
+Mean:  4.513800125953084
+Standard deviation:  0.7727831447434501
+
+2. LinearRegression:
+Mean:  5.7435358196282635
+Standard deviation:  0.6209918141212744
+
+3. RandomForestRegressor:
+Mean:  3.346816406943129
+Standard deviation:  0.9848306689832231
